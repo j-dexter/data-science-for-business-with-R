@@ -1,0 +1,50 @@
+Scratch Pad for Pulling Key Info from Sections
+================
+JASON DEXTER
+3/8/2019
+
+### Welcome + Introduction Section of Course
+
+Business Science University Objective: Apply Data Science to Solve
+Difficult Business Problems.
+
+What to Expect: Learn a System for doing ROI-Driving Data-Science.
+
+Course is designed to bridge the gap between the Data Science team and
+the Organization.
+
+Objective: Use Business Science to solve High Impact problems (w/proven
+methodology for project
+management)
+
+### Course focuses on a systematic process for doing High-Impact Data-Science
+
+The Business Science Problem Framework (BSPF) is designed to implement
+data-science project management frameworks.
+
+1.  Business Science Framework +
+2.  CRISP-DM
+
+### How the Course Progresses
+
+1.  Business Understanding (How to Understand the Business Problem)
+      - This is all about tying the data-science to financial impact.
+      - Understand Business Problem + Assign Financial Dollar Amount to
+        that problem (Cost?).
+2.  Data Understanding
+      - Assess interactions between variables/data and the target
+        feature.
+3.  Data Processing
+      - Prepare it for Presentation (People) and for Modeling (machine).
+      - Correlation analysis to identify features useful for modeling.
+4.  Model Data
+      - Develop high accuracy models and visualize their performance.
+      - Executive focused visualizations that report on model
+        performance.
+5.  Feature Explanation with LIME
+      - For explainability and undercovering drivers of Target variable
+        Y.
+6.  Build Recommendation Algorithm
+      - Introduction into Shiny Web Applications.
+      - Shiny puts the Data Science solution in the hands of Decision
+        Makers.

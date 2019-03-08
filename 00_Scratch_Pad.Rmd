@@ -2,7 +2,7 @@
 title: "Scratch Pad for Pulling Key Info from Sections"
 author: "JASON DEXTER"
 date: "3/8/2019"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
