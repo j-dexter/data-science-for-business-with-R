@@ -19,3 +19,12 @@
 **Sub-Categories:** Identifying sub-categories w/in cohorts can even further help in defining relationships.
 **KPIs (Key Performance Indicators):** Getting data and engineering features relevant to business.
 
+
+### How to Move through and develop Business Understanding (e.g., Understanding the Business Problem)
+
+Always approach the problem by acquiring the simplest dataset first. Import it and get it in the tidy format.
+We will learn something and then circle back to get more data if the problem is worth further investigation.
+
+## Workflow
+
+1. Read in and subset a few features that look interesting and productive.
