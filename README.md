@@ -4,7 +4,7 @@ This repository is for storing cheatsheets, frameworks, workflows, and helpful f
 
 The Primary content is from the course at Business Science University: **Data Science for Business with R**
 
-\  
+---
 
 **Quote from Matt Dancho,** CEO of Business Science University
 
