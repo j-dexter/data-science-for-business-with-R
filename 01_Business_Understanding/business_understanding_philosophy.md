@@ -1,5 +1,17 @@
 ## Chapter 1: Business Understanding
 
+## Primary Goal in This part of any Business-Driven DS Project: 
+
+**Use Exploratory techniques with the goal of:**
+
+* Sizing the business problem and see if it's worth our time.
+
+Matt says that *sizing the business opportunity or cost is OVERLOOKED by most data scientist. If the cost/benefit to the organization is not large, it's not worth my time (or the organizations time).*
+
+**We need to be efficient, which is our second focus.**
+
+## ROI is First, Efficiency is Second
+
 **In Chapter 1: Business Understanding,** we take what we've learned about the employee attrition business problem and apply the core BSPF steps in stages 1 through 4 as we analyze the problem. This chapter is critical because of its emphasis on problem solving and how you can use R programming to show the organization what's going on under the hood. In this chapter, you will learn how to:
 
 * Tackle a business problem with R
