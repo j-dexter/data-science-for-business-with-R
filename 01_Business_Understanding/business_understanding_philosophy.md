@@ -1,6 +1,6 @@
-## Chapter 1: Business Understanding
+# Phase: Business Understanding
 
-## Primary Goal in This part of any Business-Driven DS Project: 
+## Primary Objective(s) in this Phase, and in any Business-Driven DS Project: 
 
 **Use Exploratory techniques with the goal of:**
 
