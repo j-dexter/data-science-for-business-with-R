@@ -1,5 +1,7 @@
 ### Phase 02: Data Understanding
 
+---
+
 In this chapter, **we cover the next CRISP-DM Step: Data Understanding.** We take a pause with the BSPF while we **get to know the data and begin the process of preparing for modeling.** In this chapter, you will learn:
 
 * Techniques for effectively analyzing the features in dataset
@@ -43,6 +45,7 @@ By now your data should have all the predictor features along with the target fe
           2. **Objective:** High-Level understanding of My Data -- E.g., missing values, feature distribution(s), etc.
           3. **Pro-Tip:** Separating your data by data type (numerical vs. categorical) is a great way to investigate properties of the data. This is really the first attack on understanding my data. **These two data-types should be thought about differently.**
               * **Character Data (or Factor)** is typically categorical: Consider each & if there is anything interesting individually.
+                  * **Pro-Tip:** If the number of unique categorical features is large, consider creating an "other" category.
               * **Numeric Data:** Can be analyzed by its distribution (mean, std dev, & quantiles) -- It's a bit more descriptive b/c of these summary statistics. Keep an eye out for Numeric Data that may be better suited for categorical data (e.g., they have levels)
       * EDA Part 2: Explore Data Visually -- Visual Data Analysis w/GGally::ggpairs()
         * Investigate the Predictor/Target Relationships.
