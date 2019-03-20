@@ -39,8 +39,11 @@ By now your data should have all the predictor features along with the target fe
    * Separated Into Two Steps
       * EDA Part 1: Explore Summary Stats -- Data Summarization w/skimr::skim()
         * Investigating the Summarized Feature Attributes.
-          1. .
-          2. .
+          a. **Skim()** returns summary by data type. This includes missing values and number of unique features for categorical data. For numeric data, it returns the histogram and quantiles.
+          b. **Objective:** High-Level understanding of My Data -- E.g., missing values, feature distribution(s), etc.
+          c. **Pro-Tip:** Separating your data by data type (numerical vs. categorical) is a great way to investigate properties of the data. This is really the first attack on understanding my data. **These two data-types should be thought about differently.**
+            * **Character Data (or Factor)** is typically categorical: Consider each & if there is anything interesting individually.
+            * **Numeric Data:** Can be analyzed by its distribution (mean, std dev, & quantiles) -- It's a bit more descriptive b/c of these summary statistics. Keep an eye out for Numeric Data that may be better suited for categorical data (e.g., they have levels)
       * EDA Part 2: Explore Data Visually -- Visual Data Analysis w/GGally::ggpairs()
         * Investigate the Predictor/Target Relationships.
 
