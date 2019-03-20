@@ -30,7 +30,7 @@ This is where we collect and dive into, exploring our data.
 
 ### THE WORKFLOW FOR DATA UNDERSTANDING PHASE
 
-Buy now your data should have all the predictor features along with the target feature i.e., Tidy Data.
+By now your data should have all the predictor features along with the target feature i.e., Tidy Data.
 
 1. **Glimpse() Function** to View data and understand various ways features can be grouped into feature categories.
    * Question to ask: How do these features relate together (e.g., descritive features, time-based, department, etc.).
@@ -39,6 +39,8 @@ Buy now your data should have all the predictor features along with the target f
    * Separated Into Two Steps
       * EDA Part 1: Explore Summary Stats -- Data Summarization w/skimr::skim()
         * Investigating the Summarized Feature Attributes.
+          1. .
+          2. .
       * EDA Part 2: Explore Data Visually -- Visual Data Analysis w/GGally::ggpairs()
         * Investigate the Predictor/Target Relationships.
 
