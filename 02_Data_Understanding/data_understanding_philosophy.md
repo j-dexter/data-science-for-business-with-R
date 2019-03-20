@@ -47,8 +47,10 @@ By now your data should have all the predictor features along with the target fe
         * **Pro-Tip:** If the number of unique categorical features is large, consider creating an "other" category. This is b/c there may in fact be a better way to group on the data. And those with only 1 category are useless for modeling (zero-variance features).
 
      * **Numeric Data:** Can be analyzed by its distribution (mean, std dev, & quantiles) -- It's a bit more descriptive b/c of these summary statistics. Keep an eye out for Numeric Data that may be better suited for categorical data (e.g., they have levels).
+        * **Discrete Features:** Some numeric features may not be continuous, and are actually categorical. These are called discrete features b/c they have defined levels even though they are stored as numeric. They typically should be converted to categorical (i.e. factor) data types.
+        
 
-
+# left off midway through video on numeric data
 
 * **EDA Part 2: Explore Data Visually** -- Visual Data Analysis w/GGally::ggpairs()
 * Investigate the Predictor/Target Relationships.
