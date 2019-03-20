@@ -30,10 +30,10 @@ This is where we collect and dive into, exploring our data.
 
 ### THE WORKFLOW FOR DATA UNDERSTANDING PHASE
 
-* Buy now your data should have all the predictor features along with the target feature i.e., Tidy Data.
+Buy now your data should have all the predictor features along with the target feature i.e., Tidy Data.
 
 1. Glimpse() Function to View data and understand various ways features can be grouped into feature categories.
-    * Question to ask: How do these features relate together (e.g., descritive features, time-based, etc.)
+    * Question to ask: How do these features relate together (e.g., descritive features, time-based, department, etc.)
 2. c
 
 
