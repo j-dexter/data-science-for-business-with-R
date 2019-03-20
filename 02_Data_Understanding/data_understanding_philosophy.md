@@ -39,7 +39,7 @@ By now your data should have all the predictor features along with the target fe
    * **Pro-Tip:** Breakdown data collection activities in to strategic areas.
 2. **Exploratory Data Analysis (EDA)**
    * Separated Into Two Steps
-      * EDA Part 1: Explore Summary Stats -- Data Summarization w/skimr::skim()
+      * **EDA Part 1: Explore Summary Stats** -- Data Summarization w/skimr::skim()
         * Investigating the Summarized Feature Attributes.
           1. **Skim()** returns summary by data type. This includes missing values and number of unique features for categorical data. For numeric data, it returns the histogram and quantiles.
           2. **Objective:** High-Level understanding of My Data -- E.g., missing values, feature distribution(s), etc.
