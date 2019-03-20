@@ -37,7 +37,10 @@ Buy now your data should have all the predictor features along with the target f
    * **Pro-Tip:** Breakdown data collection activities in to strategic areas.
 2. **Exploratory Data Analysis (EDA)**
    * Separated Into Two Steps
-      * EDA Part 1: Data Summarization w/skimr::skim()
+      * EDA Part 1: Explore Summary Stats -- Data Summarization w/skimr::skim()
+        * Investigating the Summarized Feature Attributes.
+      * EDA Part 2: Explore Data Visually -- Visual Data Analysis w/GGally::ggpairs()
+        * Investigate the Predictor/Target Relationships.
 
 
 
