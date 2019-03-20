@@ -21,3 +21,8 @@ This is where we collect and dive into, exploring our data.
 ### High Level Goals
 1. Collect & Compile Data (engineer features, etc.)
 2. Exploratory Data Analysis (EDA): Identify critical properties of the underlying features (Independent/Predictor Variables) and potential relationships between them and our Target (Response/Dependent Variable).
+
+### Tools we will use to be Highly Effective & Efficient (EDA R Packages)
+1. skimr package: Review many features by datatype.
+2. GGally package: Excellent package for visualizing relationships between a Target Variable & the Features w/in our Data.
+
