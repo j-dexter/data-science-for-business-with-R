@@ -38,7 +38,6 @@ By now your data should have all the predictor features along with the target fe
    * Question to ask: How do these features relate together (e.g., descritive features, time-based, department, etc.).
    * **Pro-Tip:** Breakdown data collection activities in to strategic areas.
 2. **Exploratory Data Analysis (EDA)**
-
   * **EDA Part 1: Explore Summary Stats** -- Data Summarization w/skimr::skim()
     * Investigating the Summarized Feature Attributes.
       1. **Skim()** returns summary by data type. This includes missing values and number of unique features for categorical data. For numeric data, it returns the histogram and quantiles.
