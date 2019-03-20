@@ -32,9 +32,12 @@ This is where we collect and dive into, exploring our data.
 
 Buy now your data should have all the predictor features along with the target feature i.e., Tidy Data.
 
-1. Glimpse() Function to View data and understand various ways features can be grouped into feature categories.
-    * Question to ask: How do these features relate together (e.g., descritive features, time-based, department, etc.)
-2. c
+1. **Glimpse() Function** to View data and understand various ways features can be grouped into feature categories.
+   * Question to ask: How do these features relate together (e.g., descritive features, time-based, department, etc.).
+   * **Pro-Tip:** Breakdown data collection activities in to strategic areas.
+2. **Exploratory Data Analysis (EDA)**
+   * Separated Into Two Steps
+      * EDA Part 1: Data Summarization w/skimr::skim()
 
 
 
