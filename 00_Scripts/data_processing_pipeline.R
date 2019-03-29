@@ -15,7 +15,7 @@ process_customer_data_readable <- function(data, definitions_tbl) {
      
      # Tidy the data definition table 
      definitions_list <- definitions_tbl %>% 
-          fill(X__1, .direction = "down") %>% 
+          tidyr::fill(X__1, .direction = "down") %>% 
           filter(!is.na(X__2)) %>% 
           rename(column_name = X__1, key = X__2, value = X__3) %>% 
           
